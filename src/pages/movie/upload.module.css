@@ -1,0 +1,10 @@
+.file-upload {
+  display: block;
+  width: 100%;
+  max-width: 400px;
+  height: 50px;
+  background-color: transparent;
+  cursor: pointer;
+  margin: 0 auto;
+  margin-top: 40px;
+}

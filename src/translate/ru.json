@@ -1,0 +1,88 @@
+{
+  "auth": {
+    "login": "Вход"
+  },
+  "lang": {
+    "lang": "RU"
+  },
+  "userTable": {
+    "photo": "Фото",
+    "firstname": "Имя пользователя",
+    "name": "Имя",
+    "lastname": "Фамилия",
+    "phone": "Телефон",
+    "adress": "Адрес",
+    "sex": "Пол",
+    "email": "Электронная почта",
+    "age": "Возраст",
+    "role": "Роль",
+    "active": "Активно",
+    "action": "Действие",
+    "userName": "Имя пользователя",
+    "phoneNumber": "Номер телефона",
+    "createdAt": "Время регистрации"
+  },
+  "Sidebar": {
+    "users": "Пользователи",
+    "promocodes": "Промокоды",
+    "manufacturers": "Производители",
+    "products": "Продукты",
+    "gifts": "Розыгрыш подарков",
+    "product_category": "Категории продуктов",
+    "advertisement": "Рекламные объявления",
+    "channels": "Каналы",
+    "regions": "Регионы",
+    "settings": "Настройки",
+    "dealers": "Дилеры",
+    "mini_app_view":"Объявление на главной странице"
+  },
+  "Promocodes": {
+    "promocodes": "Промокоды",
+    "gem": "Гем",
+    "isArchive": "Архив",
+    "production": "В производстве",
+    "archive": "В архиве",
+    "archivedAt": "Дата архивирования",
+    "manufacturer": "Производитель",
+    "type": "Тип",
+    "action": "Действие",
+    "edit": "Редактировать",
+    "read": "Просмотреть",
+    "promocode": "Промокод"
+  },
+  "Manufactures": {
+    "name": "Имя",
+    "address": "Адрес",
+    "phone": "Телефон",
+    "email": "Электронная почта",
+    "action": "Действие",
+    "edit": "Редактировать",
+    "read": "Просмотреть",
+    "manufacturer": "Производитель"
+  },
+  "ProductCategories": {
+    "name": "Имя",
+    "description": "Описание",
+    "status": "Статус",
+    "action": "Действие",
+    "edit": "Редактировать",
+    "read": "Просмотреть",
+    "category": "Категория товара"
+  },
+  "Advertisements": {
+    "name": "Название",
+    "price": "Цена",
+    "url": "URL",
+    "action": "Действие",
+    "edit": "Редактировать",
+    "read": "Просмотреть",
+    "advertisement": "Реклама"
+  },
+  "Buttons": {
+    "create": "Создать",
+    "edit": "Изменить",
+    "delete": "Удалить",
+    "read": "Посмотреть",
+    "statistics": "Cтатистика"
+  }
+}

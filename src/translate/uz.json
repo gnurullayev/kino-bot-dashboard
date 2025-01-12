@@ -1,0 +1,95 @@
+{
+  "auth": {
+    "login": "kirish"
+  },
+  "lang": {
+    "lang": "U"
+  },
+  "edit": "Tahrirlash",
+  "read": "Ko'rish",
+  "create": "Yaratish",
+  "save": "Saqlash",
+  "cancel": "Bekor qilish",
+
+  "userTable": {
+    "photo": "Rasmi",
+    "firstname": "Ismi",
+    "name": "Ismi",
+    "lastname": "Sharifi",
+    "phone": "Raqami",
+    "adress": "Manzili",
+    "gender": "Jinsi",
+    "email": "Eletron Manzili",
+    "age": "Yoshi",
+    "role": "Roli",
+    "active": "Aktiv",
+    "action": "Harakat",
+    "userName":"Foydalanuvchi nomi",
+    "phoneNumber":"Telefon raqam",
+    "createdAt": "Ro'yhatdan o'tish vaqti"
+
+  },
+  "Sidebar": {
+    "users": "Foydalanuvchilar",
+    "promocodes": "Promokodlar",
+    "manufacturers": "Ishlab chiqaruvchilar",
+    "products": "Mahsulotlar",
+    "gifts": "Sovg'alarni o'ynash",
+    "product_category": "Mahsulot kategoriyalari",
+    "advertisement": "Reklamalar",
+    "channels": "Kanallar",
+    "regions": "Hududlar",
+    "settings": "Sozlamalar",
+    "dealers": "Dilerlar",
+    "mini_app_view":"Bosh sahifa eloni"
+  },
+  "Promocodes": {
+    "promocodes": "Promokodlar",
+    "gem": "Tosh",
+    "isArchive": "Arxiv",
+    "production": "Ishlab chiqarishda",
+    "archive": "Arxivda",
+    "archivedAt": "Arxivlangan sana",
+    "manufacturer": "Ishlab chiqaruvchi",
+    "type": "Tur",
+    "action": "Harakat",
+    "edit": "Tahrirlash",
+    "read": "Ko'rish",
+    "promocode": "Promokod"
+  },
+  "Manufactures": {
+    "name": "Ism",
+    "address": "Manzil",
+    "phone": "Telefon",
+    "email": "Elektron pochta",
+    "action": "Harakat",
+    "edit": "Tahrirlash",
+    "read": "Ko'rish",
+    "manufacturer": "Ishlab chiqaruvchi"
+  },
+  "ProductCategories": {
+    "name": "Ism",
+    "description": "Tavsif",
+    "status": "Holat",
+    "action": "Harakat",
+    "edit": "Tahrirlash",
+    "read": "Ko'rish",
+    "category": "Mahsulot kategoriyasi"
+  },
+  "Advertisements": {
+    "name": "Nomi",
+    "price": "Narxi",
+    "url": "URL",
+    "action": "Harakat",
+    "edit": "Tahrirlash",
+    "read": "Ko'rish",
+    "advertisement": "Reklama"
+  },
+  "Buttons": {
+    "create": "Yaratish",
+    "edit": "Ozgartirish",
+    "delete": "Ochirish",
+    "read": "Korish",
+    "statistics":"Statistika"
+  }
+}
